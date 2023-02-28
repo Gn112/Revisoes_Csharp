@@ -1,0 +1,15 @@
+H:\POO\TiposVariaveis\AulaRevisao\bin\Debug\net6.0\AulaRevisao0.exe
+H:\POO\TiposVariaveis\AulaRevisao\bin\Debug\net6.0\AulaRevisao0.deps.json
+H:\POO\TiposVariaveis\AulaRevisao\bin\Debug\net6.0\AulaRevisao0.runtimeconfig.json
+H:\POO\TiposVariaveis\AulaRevisao\bin\Debug\net6.0\AulaRevisao0.dll
+H:\POO\TiposVariaveis\AulaRevisao\bin\Debug\net6.0\ref\AulaRevisao0.dll
+H:\POO\TiposVariaveis\AulaRevisao\bin\Debug\net6.0\AulaRevisao0.pdb
+H:\POO\TiposVariaveis\AulaRevisao\obj\Debug\net6.0\AulaRevisao0.csproj.AssemblyReference.cache
+H:\POO\TiposVariaveis\AulaRevisao\obj\Debug\net6.0\AulaRevisao0.GeneratedMSBuildEditorConfig.editorconfig
+H:\POO\TiposVariaveis\AulaRevisao\obj\Debug\net6.0\AulaRevisao0.AssemblyInfoInputs.cache
+H:\POO\TiposVariaveis\AulaRevisao\obj\Debug\net6.0\AulaRevisao0.AssemblyInfo.cs
+H:\POO\TiposVariaveis\AulaRevisao\obj\Debug\net6.0\AulaRevisao0.csproj.CoreCompileInputs.cache
+H:\POO\TiposVariaveis\AulaRevisao\obj\Debug\net6.0\AulaRevisao0.dll
+H:\POO\TiposVariaveis\AulaRevisao\obj\Debug\net6.0\ref\AulaRevisao0.dll
+H:\POO\TiposVariaveis\AulaRevisao\obj\Debug\net6.0\AulaRevisao0.pdb
+H:\POO\TiposVariaveis\AulaRevisao\obj\Debug\net6.0\AulaRevisao0.genruntimeconfig.cache
