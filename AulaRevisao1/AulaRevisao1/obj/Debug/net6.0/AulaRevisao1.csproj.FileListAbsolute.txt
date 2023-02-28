@@ -1,0 +1,15 @@
+H:\POO\AulaRevisao1\AulaRevisao1\bin\Debug\net6.0\AulaRevisao1.exe
+H:\POO\AulaRevisao1\AulaRevisao1\bin\Debug\net6.0\AulaRevisao1.deps.json
+H:\POO\AulaRevisao1\AulaRevisao1\bin\Debug\net6.0\AulaRevisao1.runtimeconfig.json
+H:\POO\AulaRevisao1\AulaRevisao1\bin\Debug\net6.0\AulaRevisao1.dll
+H:\POO\AulaRevisao1\AulaRevisao1\bin\Debug\net6.0\ref\AulaRevisao1.dll
+H:\POO\AulaRevisao1\AulaRevisao1\bin\Debug\net6.0\AulaRevisao1.pdb
+H:\POO\AulaRevisao1\AulaRevisao1\obj\Debug\net6.0\AulaRevisao1.csproj.AssemblyReference.cache
+H:\POO\AulaRevisao1\AulaRevisao1\obj\Debug\net6.0\AulaRevisao1.GeneratedMSBuildEditorConfig.editorconfig
+H:\POO\AulaRevisao1\AulaRevisao1\obj\Debug\net6.0\AulaRevisao1.AssemblyInfoInputs.cache
+H:\POO\AulaRevisao1\AulaRevisao1\obj\Debug\net6.0\AulaRevisao1.AssemblyInfo.cs
+H:\POO\AulaRevisao1\AulaRevisao1\obj\Debug\net6.0\AulaRevisao1.csproj.CoreCompileInputs.cache
+H:\POO\AulaRevisao1\AulaRevisao1\obj\Debug\net6.0\AulaRevisao1.dll
+H:\POO\AulaRevisao1\AulaRevisao1\obj\Debug\net6.0\ref\AulaRevisao1.dll
+H:\POO\AulaRevisao1\AulaRevisao1\obj\Debug\net6.0\AulaRevisao1.pdb
+H:\POO\AulaRevisao1\AulaRevisao1\obj\Debug\net6.0\AulaRevisao1.genruntimeconfig.cache
